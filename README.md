@@ -8,7 +8,7 @@
 - IntelliJ Community version - https://www.jetbrains.com/idea/download
 
 ## Checkout the code
-Repository:
+Repository: https://github.com/jreysanmig/ubank-assessment
 
 
 ## Run Tests
