@@ -41,13 +41,13 @@ mvn clean test site -Dbrowser="edge"
 ## Report
 After running the tests, the report will be generated here and can be viewed with any browser:
 ```shell
-{project_root_directory}/target/site/ubank-test-report.html
+{basedir}/target/site/ubank-test-report.html
 ```
 
 ## Configuration
 .properties file to configure the baseURLs used in each environment can be found in:
 ```shell
-{project_root_directory}src/test/resources/configs
+{basedir}src/test/resources/configs
 ```
 
 ## Drivers
@@ -60,6 +60,8 @@ In that case, download the driver based on the browser version of the local mach
 
 Replace the driver files in this project location:
 ```shell
-{project_root_directory}src/test/resources/drivers
+{basedir}src/test/resources/drivers
 ```
 
+## Notes
+- Some tests in UI and API are purposely coded to fail to demonstrate a more realistic use of the report
