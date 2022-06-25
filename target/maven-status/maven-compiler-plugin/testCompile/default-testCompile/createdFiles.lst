@@ -1,0 +1,7 @@
+utils\PayloadReader.class
+tests\api\BaseApiTest.class
+tests\ui\browser\HomeTests.class
+utils\ConfigUtil.class
+tests\ui\browser\BaseBrowserTest.class
+tests\api\PetStoreTests.class
+utils\DriverManager.class

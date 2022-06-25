@@ -1,0 +1,18 @@
+{
+  "id": 88888888,
+  "category": {
+    "id": 0,
+    "name": "ub-updated-category"
+  },
+  "name": "ub-updated-name",
+  "photoUrls": [
+    "ub-updated-photo-url"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "ub-updated-tag"
+    }
+  ],
+  "status": "sold"
+}
