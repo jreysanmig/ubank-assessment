@@ -9,6 +9,9 @@
 
 ## Checkout the code
 Repository: https://github.com/jreysanmig/ubank-assessment
+```shell
+git clone https://github.com/jreysanmig/ubank-assessment
+```
 
 
 ## Run Tests
